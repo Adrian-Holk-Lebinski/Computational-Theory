@@ -1,3 +1,6 @@
+# Result files from notebook
+expressions.txt
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
